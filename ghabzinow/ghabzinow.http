@@ -1,0 +1,6 @@
+@ghabzinow_HostAddress = http://localhost:5278
+
+GET {{ghabzinow_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
